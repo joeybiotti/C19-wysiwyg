@@ -1,0 +1,18 @@
+.main-title{
+	font-size: 4em;
+	margin: auto;
+	padding: auto;
+}
+
+
+article:nth-child(even){
+	background-color: lightyellow;
+}
+
+article:nth-child(odd){
+	background-color: lightblue;
+}
+
+.bordered {
+	border: 1px black dotted;
+}
